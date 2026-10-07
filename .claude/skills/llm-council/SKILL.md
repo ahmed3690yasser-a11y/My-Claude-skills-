@@ -1,6 +1,6 @@
 ---
 name: llm-council
-description: Run a question through an "LLM Council": five independent advisors answer separately, then anonymously review and rank each other's answers, then a chairman synthesizes one final answer. Use when the user types /llm-council, or asks for a council, multiple perspectives, a peer-reviewed answer, or a second opinion on a hard decision, tradeoff, or ambiguous question.
+description: Run a question through an LLM Council. Five independent advisors answer separately, then anonymously review and rank each other's answers, then a chairman synthesizes one final answer. Use when the user types /llm-council, or asks for a council, multiple perspectives, a peer-reviewed answer, or a second opinion on a hard decision, tradeoff, or ambiguous question.
 ---
 
 # LLM Council
